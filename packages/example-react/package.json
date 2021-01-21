@@ -31,9 +31,9 @@
     "markdown-loader": "^5.0.0",
     "markdown-loader-jest": "^0.1.1",
     "prop-types": "^15.7.2",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-test-renderer": "^16.8.3",
+    "react": "^16.8.3 || ^17.0.1",
+    "react-dom": "^16.8.3 || ^17.0.1",
+    "react-test-renderer": "^16.8.3 || ^17.0.1",
     "storybook-readme": "^5.0.9",
     "styled-components": "^4.1.3"
   },
